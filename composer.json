@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ekapusta/oauth2-esia": "^1.3"
+    }
+}
